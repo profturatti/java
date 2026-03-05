@@ -10,6 +10,8 @@ Turmas: CC2P12, CC3P12, CC3Q12,
 
 2o. Horário: 20h45-22h00
 
+[Materiais complementares](https://github.com/profturatti/materiais)
+
 |  DATA  | Descrição / Matéria Lecionada | Materiais 
 |--------|--------|--------
 | 11.fev | Apresentação da disciplina e ferramentas em laboratório| Slides Exercícios
