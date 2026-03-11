@@ -10,15 +10,15 @@ Turmas: CC2P12, CC3P12, CC3Q12,
 
 2o. Horário: 20h45-22h00
 
-[Materiais complementares](https://github.com/profturatti/materiais)
+[Materiais: Apostilas, eBooks, Slides](https://github.com/profturatti/java/blob/main/files/readme.md)
 
 |  DATA  | Descrição / Matéria Lecionada | Materiais 
 |--------|--------|--------
-| 11.fev | Apresentação da disciplina e ferramentas em laboratório| Slides Exercícios
+| 11.fev | AULA 01 - Apresentação da disciplina e ferramentas em laboratório | [Plano de Ensino]() [Exemplos]()
 | 18.fev | Feriado Carnaval
-| 25.fev | O ambiente Java; Tipos de dados; Referências a Objetos; Operadores Aritméticos.Entrada e Saída em Java (exemplos em console e GUI)| Slides Exercícios
-| 04.mar | Exemplos de classe, objetos, Atributos e Métodos; Estruturas de Controle| Slides Exercícios
-| 11.mar | Encapsulamento.Exemplos de Encapsulamento| Slides Exercícios
+| 25.fev | AULA 02 - O ambiente Java; Tipos de dados; Referências a Objetos; Operadores Aritméticos.Entrada e Saída em Java (exemplos em console e GUI) | [Exercícios]() [Respostas]()
+| 04.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | Exercícios Respostas
+| 11.mar | AULA 03 e 04 - Encapsulamento. Exemplos de Encapsulamento | Exercícios Respostas
 | 18.mar | Revisão e exercícios| Slides Exercícios
 | 25.mar | Método Construtor| Slides Exercícios
 | 01.abr | Avaliação NP1| Slides Exercícios
