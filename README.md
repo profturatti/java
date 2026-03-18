@@ -18,9 +18,9 @@ Turmas: CC2P12, CC3P12, CC3Q12,
 | 18.fev | Feriado Carnaval
 | 25.fev | AULA 02 - O ambiente Java; Tipos de dados; Referências a Objetos; Operadores Aritméticos.Entrada e Saída em Java (exemplos em console e GUI) | [Exercícios](https://github.com/profturatti/java/blob/main/files/aula02_exercicios.pdf) [Respostas](https://github.com/profturatti/java/blob/main/files/poo_aula02_gabarito.pdf)
 | 04.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | [Exercícios A03](https://github.com/profturatti/java/blob/main/files/aula03_exercicios.pdf) [Respostas A03]() [Exercícios A04](https://github.com/profturatti/java/blob/main/files/aula04_exercicios.pdf) [Respostas A04]()
-| 11.mar | AULA 03 e 04 - Encapsulamento. Exemplos de Encapsulamento | Exercícios Respostas
-| 18.mar | Revisão e exercícios| Slides Exercícios
-| 25.mar | Método Construtor| Slides Exercícios
+| 11.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | [Exercícios A03](https://github.com/profturatti/java/blob/main/files/aula03_exercicios.pdf) [Respostas A03]() [Exercícios A04](https://github.com/profturatti/java/blob/main/files/aula04_exercicios.pdf) [Respostas A04]()
+| 18.mar | AULA 05 e 06 - | Slides Exercícios
+| 25.mar |  Encapsulamento. Exemplos de Encapsulamento; Método Construtor| Slides Exercícios
 | 01.abr | Avaliação NP1| Slides Exercícios
 | 08.abr | Herança| Slides Exercícios
 | 15.abr | Polimorfismo.Exemplos de Polimorfismo| Slides Exercícios
