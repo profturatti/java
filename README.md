@@ -21,8 +21,8 @@ Turmas: CC2P12, CC3P12, CC3Q12,
 | 11.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | [A03:Exercícios](https://github.com/profturatti/java/blob/main/files/aula03_exercicios.pdf) A03:Respostas [A04:Exercícios](https://github.com/profturatti/java/blob/main/files/aula04_exercicios.pdf) A04:Respostas
 | 18.mar | AULA 05 e 06 - | [Teoria/Slides](https://github.com/profturatti/java/blob/main/files/aula05/aula05_POO_UNIP.pdf) [Exercícios](https://github.com/profturatti/java/blob/main/files/aula05/aula05e06_exercicios.pdf) [Exemplo](https://github.com/profturatti/java/blob/main/files/aula05/aula05_JAVA_ExemploCarro.zip)
 | 25.mar |  Encapsulamento. Exemplos de Encapsulamento; Método Construtor| Slides Exercícios
-| 01.abr | Avaliação NP1| Slides Exercícios
-| 08.abr | Herança| Slides Exercícios
+| 01.abr | AULA 07 - Herança | [Teoria/Slides](https://github.com/profturatti/java/blob/main/files/aula07/aula07_POO_UNIP.pdf) <br> [Exercícios](https://github.com/profturatti/java/blob/main/files/aula07/aula07_exercicios.pdf) <br> Respostas
+| 08.abr | Avaliação NP1 |
 | 15.abr | Polimorfismo.Exemplos de Polimorfismo| Slides Exercícios
 | 22.abr | Classe abstrata; Exemplos de classe abstrata| Slides Exercícios
 | 29.abr | Interface; Exemplos de Interface| Slides Exercícios
