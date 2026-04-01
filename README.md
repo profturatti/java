@@ -17,8 +17,8 @@ Turmas: CC2P12, CC3P12, CC3Q12,
 | 11.fev | AULA 01 - Apresentação da disciplina e ferramentas em laboratório | [Plano de Ensino](https://github.com/profturatti/java/blob/main/files/J56C_Programacao_Orientada_a_Objetos.pdf)
 | 18.fev | Feriado Carnaval
 | 25.fev | AULA 02 - O ambiente Java; Tipos de dados; Referências a Objetos; Operadores Aritméticos. Entrada e Saída em Java (exemplos em console e GUI) | [Exercícios](https://github.com/profturatti/java/blob/main/files/aula02_exercicios.pdf) <br> [Respostas](https://github.com/profturatti/java/blob/main/files/poo_aula02_gabarito.pdf)
-| 04.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | Exercícios Respostas
-| 11.mar | AULA 03 e 04 | [A03:Exercícios](https://github.com/profturatti/java/blob/main/files/aula03_exercicios.pdf) A03:Respostas <br> [A04:Exercícios](https://github.com/profturatti/java/blob/main/files/aula04_exercicios.pdf) A04:Respostas
+| 04.mar | AULA 03 e 04 - Classes, Objetos, Atributos e Métodos; Estruturas de Controle | Teoria/Slides <br> [A03:Exercícios](https://github.com/profturatti/java/blob/main/files/aula03_exercicios.pdf) A03:Respostas <br> [A04:Exercícios](https://github.com/profturatti/java/blob/main/files/aula04_exercicios.pdf) A04:Respostas
+| 11.mar | AULA 03 e 04 | 
 | 18.mar | AULA 05 e 06 - Encapsulamento. Exemplos de Encapsulamento; Método Construtor | [Teoria/Slides](https://github.com/profturatti/java/blob/main/files/aula05/aula05_POO_UNIP.pdf) <br> [Exercícios](https://github.com/profturatti/java/blob/main/files/aula05/aula05e06_exercicios.pdf) <br> [Exemplo](https://github.com/profturatti/java/blob/main/files/aula05/aula05_JAVA_ExemploCarro.zip)
 | 25.mar | AULA 05 e 06 | 
 | 01.abr | AULA 07 - Herança | [Teoria/Slides](https://github.com/profturatti/java/blob/main/files/aula07/aula07_POO_UNIP.pdf) <br> [Exercícios](https://github.com/profturatti/java/blob/main/files/aula07/aula07_exercicios.pdf) <br> Respostas
